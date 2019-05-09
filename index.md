@@ -1,9 +1,17 @@
 ## 个人简历
 
 ### 联系方式
-+ 姓名: 张扬
++ Email: zhangyang@deepexi.com
 + 电话: 18390551997
 
+### 个人信息
++ 张扬/男/1997.01.23
++ 电子信息专业/2018.06
++ 工作年限: 2年
++ 技术博客: [link text](https://github.com/jmzyang/zhangyang.github.io "title text")
+
+### 作品展示
+![alt text](http://www.voicer.me/wp-content/uploads/2019/04/IMG_6959.jpg "title text")
 ```markdown
 Syntax highlighted code block
 
