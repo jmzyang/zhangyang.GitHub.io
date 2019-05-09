@@ -3,7 +3,6 @@
 ### 联系方式
 + 姓名: 张扬
 + 电话: 18390551997
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
