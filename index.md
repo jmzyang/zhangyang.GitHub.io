@@ -8,10 +8,12 @@
 + 张扬/男/1997.01.23
 + 电子信息专业/2018.06
 + 工作年限: 2年
-+ 技术博客: [link text](https://github.com/jmzyang/zhangyang.github.io "我的秘密基地")
++ 技术博客: [我的秘密基地](https://github.com/jmzyang/zhangyang.github.io "我的秘密基地")
 
 ### 作品展示
 ![alt text](http://www.voicer.me/wp-content/uploads/2019/04/IMG_6959.jpg "图片崩溃")
+![alt text][logo]
+[logo]: http://www.voicer.me/wp-content/uploads/2019/04/IMG_6959.jpg "title text"
 ```markdown
 Syntax highlighted code block
 
