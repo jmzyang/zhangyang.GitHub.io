@@ -12,8 +12,7 @@
 
 ### 作品展示
 ![alt text](http://www.voicer.me/wp-content/uploads/2019/04/IMG_6959.jpg "图片崩溃")
-![alt text][logo]
-[logo]: http://www.voicer.me/wp-content/uploads/2019/04/IMG_6959.jpg "title text"
+
 ```markdown
 Syntax highlighted code block
 
